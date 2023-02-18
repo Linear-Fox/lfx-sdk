@@ -6,7 +6,7 @@
 This repository contains the Linear Fox SDKs for the following languages:
 | SDK        | Folder                                | SDK version | SDK status                                                    |
 |------------|---------------------------------------|-------------|---------------------------------------------------------------|
-| C++        | [cpp/](cpp)                           | 0.0.0       | ![[]](https://shields.io/badge/-Soon-blueviolet)              |
+| C++        | [cpp/](cpp)                           | 0.0.0       | ![[]](https://shields.io/badge/-UnderDevelopment-yellow)              |
 | Go         | [go/](go)                             | 0.0.0       | ![[]](https://shields.io/badge/-Soon-blueviolet)              |
 | PHP        | [php/](php)                           | 0.0.0       | ![[]](https://shields.io/badge/-Soon-blueviolet)              |
 | Python     | [python/](python)                     | 0.0.0       | ![[]](https://shields.io/badge/-Soon-blueviolet)              |
